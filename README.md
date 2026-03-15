@@ -5,5 +5,6 @@ This repository contains my solutions for Cisco CCNA Semester 1 labs using Cisco
 Topics covered:
 - Networking fundamentals
 - IPv4,IPv6 addressing
+- Subnetting
 - Basic router and switch configuration
 - ICMP and troubleshooting
